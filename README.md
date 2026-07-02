@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a student of **English Language and Literature
 - **Community Engagement**: Creating and managing content that inspires and informs, especially within the educational space.
 
 # 📫 Connect with Me
-- **Email**: [shahjalaltahsin@gmail.com](mailto:shahjalaltahsin@gmail.com)
+- **Email**: [shahjalalahmednishat@gmail.com](mailto:shahjalalahmednishat@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-ahmed-nishat/)
 - **Rotaract Projects**: Passionate about collaboration? Let’s connect and discuss community-driven projects that combine language, technology, and education.
 
