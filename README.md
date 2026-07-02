@@ -1,6 +1,6 @@
 ### Hello, I'm Shahjalal Ahmed Nishat! 👋
 
-Welcome to my GitHub profile! I'm a student of **English Language and Literature** at Jatiya Kabi Kazi Nazrul Islam University, Bangladesh, blending the rich insights of humanities with the precision of coding. My journey spans literature, linguistics, and the exciting realm of language models, bringing a unique perspective to problem-solving, storytelling, and advanced content creation.
+Welcome to my GitHub profile! I'm a student of **English Language and Literature** at Jatiya Kabi Kazi Nazrul Islam University, Bangladesh. My journey spans literature, linguistics, and the exciting realm of Natural Language Processing.
 
 # 🌱 About Me
 - 🎓 Pursuing a degree in **English Language and Literature**, with expertise in linguistics, **Natural Language Processing** (NLP), and analysis.
